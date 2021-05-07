@@ -1,4 +1,5 @@
 <body>
+	//start script for webix ui
     <script type="text/javascript" charset="utf-8">
         var formData = {
             rows: [{
